@@ -19,6 +19,8 @@ Cohort: 040521
 └── README.md
 ```
 
+## Exploratory Data Analysis
+
 ## Data Preprocessing
 
 ## Model Building

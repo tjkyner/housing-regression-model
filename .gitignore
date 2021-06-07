@@ -1,5 +1,5 @@
 # Google slides
-.gslides
+*.gslides
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
